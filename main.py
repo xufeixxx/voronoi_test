@@ -18,3 +18,4 @@ print("hello world")
 #         if k == -1:
 #             i += 1
 # print(i/(len(vor.regions)-1))
+# sdpoobpsdbsd
